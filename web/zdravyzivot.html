@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  <div id='showCD'></div>
+    <script>
+    displayCD(0);
+    function displayCD(i) {
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                myFunction(this, i);
+            }
+        };
+        xmlhttp.open("GET", "https://freenetszm.github.io/ArduinoPoSlovensky/web/zeleny.xml", true);
+        xmlhttp.send();
+    }
+    function myFunction(xml, i) {
+        var xmlDoc = xml.responseXML; 
+        x = xmlDoc.getElementsByTagName("SHOPITEM");
+        document.getElementById("showCD").innerHTML =
+        "<b>Popis:</b> " +
+        x[i].getElementsByTagName("DESCRIPTION")[0].childNodes[0].nodeValue +
+        "<br><br><b>Cena:</b> " +
+        x[i].getElementsByTagName("PRICE_VAT")[0].childNodes[0].nodeValue +
+        "<br><img src='"+ 
+        x[i].getElementsByTagName("IMGURL")[0].childNodes[0].nodeValue + "' height='250'>" 
+    }
+    </script>
+  </body>
+</html>
