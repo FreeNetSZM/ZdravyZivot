@@ -31,15 +31,17 @@ function ProduktID() {
       document.getElementById("inner").appendChild(div);
   }    
 
-  $.getJSON('https://freenetszm.github.io/ArduinoPoSlovensky/Produkty/css/main.json', function(name) {
+  $.getJSON('https://freenetszm.github.io/ZdravyZivot/web/css/main.json', function(name) {
      for (i = 0; i < max; i++) {
         id = arg[i];
         document.getElementById("NADPIS_" + i).innerHTML = name[id][0];
         document.getElementById("OPIS_" + i).innerHTML = name[id][1];
-        document.getElementById("KUP_" + i).href = name[id][2];      
+        document.getElementById("KUP_" + i).href = name[id][2];     
+        document.getElementById("IMG_" + i).src = name[id][3];  
+        document.getElementById(i).innerHTML = name[id][4]; 
      }
   });  
-  
+  /*
   for (i = 0; i < max; i++) {    
     (function(i) {
       id = arg[i];
@@ -57,5 +59,5 @@ function ProduktID() {
           else {document.getElementById("IMG_" + i).src = img.result.image220;}  
       });   
     })(i);
-  } 
+  }*/ 
 }
