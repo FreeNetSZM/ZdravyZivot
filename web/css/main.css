@@ -49,13 +49,13 @@
     box-shadow: rgb(170, 170, 170) 5px 5px 5px 0px;
     border: 1px solid rgb(170, 170, 170);
     border-radius: 4px 4px 4px 4px;
-    height: 275px;
+    height: 280px;
 }
 
 .bannerID {
   margin: 2px; 
   padding: 2px; 
-  height: 280px; 
+  height: 290px; 
   float:left; 
   width: 770px;
 }
