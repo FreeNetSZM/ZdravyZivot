@@ -24,7 +24,7 @@ function ProduktID() {
                   '<i id="KUP_ZA"></i></a>\n' +
                 '</div>\n' +
                 '<a href="http://s.click.aliexpress.com/e/vR7maIuzV">\n' +
-                  '<img src="/ArduinoPoSlovensky/Produkty/images/ali.png" target="_blank" id="IMG_ALI"/></a>\n' + 
+                  '<img src="/ArduinoPoSlovensky/Produkty/images/zelenyzivot.png" target="_blank" id="IMG_ALI"/></a>\n' + 
                 '<div class="star-ratings-sprite"><span style="width:1%" id="STAR_' + id + '" class="star-ratings-sprite-rating"></span></div><div id="SCORE_' + id + '"></div>\n' +        
               '</div>\n' +
           '</div>\n'
