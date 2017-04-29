@@ -4,14 +4,14 @@
       "DESCRIPTION": "Zelený jačmeň (mladý jačmeň) je výživový doplnok zo sušenej šťavy z výhonkov z mladého jačmeňa. Je to výnimočný koncentrát bohatý na široké spektrum výživných látok s pozitívnym účinkom na ľudský organizmus. Jedna lyžička prášku Zelený jačmeň (mladý jačmeň) zodpovedá približne 50-60 gramom čerstvej vytlačenej šťave. Komerčné prípravky, ktoré obsahujú sušené listy sú menej koncentrované a obsahujú balastné látky, ktoré môžu znižovať vstrebatelnosť niektorých látok. Každodenné užívanie sušenej šťavy zo zeleného jačmeňa dodá nášmu organizmu potrebné vitamíny, minerálne látky, antioxidanty, aminokyseliny, enzýmy.",
       "URL": "http://www.zelenyzivot.sk/Zeleny-jacmen-200g-d1.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_1zeleny-jacmen-200g.png",
-      "PRICE_VAT": 45.00
+      "PRICE_VAT": "45,00"
    },
    "1887739": {
-      "PRODUCTNAME": "Zelený jačmeň 100g-Benevit",
+      "PRODUCTNAME": "Zelený jačmeň 100g - Benevit",
       "DESCRIPTION": "Zelený jačmeň (mladý jačmeň) je výživový doplnok zo sušenej šťavy z výhonkov z mladého jačmeňa. Je to výnimočný koncentrát bohatý na široké spektrum výživných látok s pozitívnym účinkom na ľudský organizmus. Jedna lyžička prášku Zelený jačmeň (mladý jačmeň) zodpovedá približne 50-60 gramom čerstvej vytlačenej šťave. Komerčné prípravky, ktoré obsahujú sušené listy sú menej koncentrované a obsahujú balastné látky, ktoré môžu znižovať vstrebatelnosť niektorých látok. Každodenné užívanie sušenej šťavy zo zeleného jačmeňa dodá nášmu organizmu potrebné vitamíny, minerálne látky, antioxidanty, aminokyseliny, enzýmy.",
       "URL": "http://www.zelenyzivot.sk/Zeleny-jacmen-100g-d2.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_2zeleny-jacmen-100g.png",
-      "PRICE_VAT": 23.00
+      "PRICE_VAT": "23,00"
    },
    "1887750": {
       "PRODUCTNAME": "Chlorella 750tbl - Benevit",
@@ -133,7 +133,7 @@
       "PRICE_VAT": 4.60
    },
    "23360427": {
-      "PRODUCTNAME": "Omega-3 Forte 1000mg 90 kapsúl-Benevit",
+      "PRODUCTNAME": "Omega-3 Forte 1000mg 90 kapsúl - Benevit",
       "DESCRIPTION": "Omega-3 Fish Oil Forte je vysoko koncentrovaný produkt, ktorý obsahuje 1000mg rybieho oleja s obsahom 33% EPA a 22% DHA mastných kyselín v jednej kapsule.",
       "URL": "http://www.zelenyzivot.sk/Fish-oil-with-Omega-3-Forte-1000mg-90-kapsul-d32.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_32Fish-oil-Omega-3-Forte-90kapsul.png",
