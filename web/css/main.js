@@ -36,7 +36,7 @@ function ProduktID() {
         id = arg[i];
         document.getElementById("NADPIS_" + i).innerHTML = name[id]["PRODUCTNAME"];
         document.getElementById("OPIS_" + i).innerHTML = name[id]["DESCRIPTION"];
-        document.getElementById("KUP_" + i).href = name[id]["URL"];     
+        document.getElementById("KUP_" + i).href = name[id]["URL"] + "?a_aid=5551fa25d8bf9&a_bid=e470c965";     
         document.getElementById("IMG_" + i).src = name[id]["IMGURL"];  
         document.getElementById(i).innerHTML = name[id]["PRICE_VAT"] + "&nbsp€&nbsp&nbsp"; 
      }
