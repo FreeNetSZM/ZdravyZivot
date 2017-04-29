@@ -38,7 +38,7 @@ function ProduktID() {
         document.getElementById("OPIS_" + i).innerHTML = name[id]["DESCRIPTION"];
         document.getElementById("KUP_" + i).href = name[id]["URL"];     
         document.getElementById("IMG_" + i).src = name[id]["IMGURL"];  
-        document.getElementById(i).innerHTML = name[id]["PRICE_VAT"] + "€&nbsp&nbsp"; 
+        document.getElementById(i).innerHTML = name[id]["PRICE_VAT"] + "&nbsp€&nbsp&nbsp"; 
      }
   });  
   /*
