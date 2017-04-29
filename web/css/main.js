@@ -34,11 +34,11 @@ function ProduktID() {
   $.getJSON('https://freenetszm.github.io/ZdravyZivot/web/css/main.json', function(name) {
      for (i = 0; i < max; i++) {
         id = arg[i];
-        document.getElementById("NADPIS_" + i).innerHTML = name[id][PRODUCTNAME];
-        document.getElementById("OPIS_" + i).innerHTML = name[id][DESCRIPTION];
-        document.getElementById("KUP_" + i).href = name[id][URL];     
-        document.getElementById("IMG_" + i).src = name[id][IMGURL];  
-        document.getElementById(i).innerHTML = name[id][PRICE_VAT]; 
+        document.getElementById("NADPIS_" + i).innerHTML = name[id]["PRODUCTNAME"];
+        document.getElementById("OPIS_" + i).innerHTML = name[id]["DESCRIPTION"];
+        document.getElementById("KUP_" + i).href = name[id]["URL"];     
+        document.getElementById("IMG_" + i).src = name[id]["IMGURL"];  
+        document.getElementById(i).innerHTML = name[id]["PRICE_VAT"]; 
      }
   });  
   /*
