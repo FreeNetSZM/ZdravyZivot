@@ -25,7 +25,7 @@ function ProduktID() {
                 '</div>\n' +
                 '<a href="http://www.zelenyzivot.sk/?a_aid=5551fa25d8bf9&a_bid=e470c965">\n' +
                   '<img src="/ZdravyZivot/web/images/zelenyzivot.png" target="_blank" id="IMG_ALI"/></a>\n' + 
-                '<div class="star-ratings-sprite"><span style="width:1%" id="STAR_' + id + '" class="star-ratings-sprite-rating"></span></div><div id="SCORE_' + id + '"></div>\n' +        
+                '<div class="star-ratings-sprite"><span style="width:99%" id="STAR_' + id + '" class="star-ratings-sprite-rating"></span></div><div id="SCORE_' + id + '"></div>\n' +        
               '</div>\n' +
           '</div>\n'
       document.getElementById("inner").appendChild(div);
