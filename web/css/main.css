@@ -68,7 +68,7 @@
 
 .ID_IMG {
     height: 170px;
-    /*width: 150px;*/
+    max-width: 160px;
 }
 
 .POPIS {
