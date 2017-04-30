@@ -1,20 +1,20 @@
 @font-face {
     font-family: "FontAwesome";
-    src: url("/ArduinoPoSlovensky/Produkty/fonts/fontawesome-webfont.woff") format('woff');
+    src: url("/ZdravyZivot/web/fonts/fontawesome-webfont.woff") format('woff');
 }
 
 @font-face {
     font-family: "kg_second_chances_solidRg";
-    src: url("/ArduinoPoSlovensky/Produkty/fonts/kgsecondchancessolid-webfont.ttf") format('truetype');
+    src: url("/ZdravyZivot/web/fonts/kgsecondchancessolid-webfont.ttf") format('truetype');
 }
 
 @font-face {
     font-family: "Roboto Condensed";
-    src: url("/ArduinoPoSlovensky/Produkty/fonts/RobotoCondensed-Regular-webfont.woff") format('woff');
+    src: url("/ZdravyZivot/web/fonts/RobotoCondensed-Regular-webfont.woff") format('woff');
 }
 
 .star-ratings-sprite {
-  background: url("https://freenetszm.github.io/ArduinoPoSlovensky/Produkty/images/star-rating-sprite.png") repeat-x;
+  background: url("https://freenetszm.github.io/ZdravyZivot/web/images/star-rating-sprite.png") repeat-x;
   font-size: 0;
   float: left;
   line-height: 0;
@@ -26,7 +26,7 @@
 }
 
 .star-ratings-sprite-rating {
-  background: url("https://freenetszm.github.io/ArduinoPoSlovensky/Produkty/images/star-rating-sprite.png") repeat-x;
+  background: url("https://freenetszm.github.io/ZdravyZivot/web/images/star-rating-sprite.png") repeat-x;
   background-position: 0 100%;
   float: left;
   height: 10px;
