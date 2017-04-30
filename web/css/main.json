@@ -35,7 +35,7 @@
       "PRICE_VAT": 3.50
    },   
    "9569743": {
-      "PRODUCTNAME": "Benevit - Detoxikačný balík Zelená dvojka",
+      "PRODUCTNAME": "Detoxikačný balík Zelená dvojka - Benevit",
       "DESCRIPTION": "Ideálna kombinácia dvoch &quot;majstrov detoxikácie&quot; zeleného jačmeňa a chlorelly.",
       "URL": "http://www.zelenyzivot.sk/Detoxikacny-balik-Zelena-dvojka-Benevit-d15.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_15jacmen-a-chlorella-zelena-dvojka.png",
@@ -63,18 +63,25 @@
       "PRICE_VAT": 14.70
    },
    "23355549": {
-      "PRODUCTNAME": "Benevit - Zelený jačmeň s chlorellou - šumivé tablety",
+      "PRODUCTNAME": "Zelený jačmeň s chlorellou šumivé tablety - Benevit",
       "DESCRIPTION": "Zelený jačmeň s chlorellou - šumivé tablety s náhradným sladidlom 10 tabliet s limetovou príchuťou",
       "URL": "http://www.zelenyzivot.sk/Zeleny-jacmen-s-chlorellou-sumive-tablety-10-tabliet-d20.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_20zeleny-jacmen-chlorella-sumive-tablety.png",
       "PRICE_VAT": 3.80
    },
    "23356705": {
-      "PRODUCTNAME": "Benevit - Vitamin C 30 tabliet so šípkami 1000mg s predĺženým účinkom",
+      "PRODUCTNAME": "Vitamin C 30 tabliet so šípkami 1000mg s predĺženým účinkom - Benevit",
       "DESCRIPTION": "Vitamín C 1000mg so šípkami s postupným uvoľňovaním spája v sebe výhody tejto liekovej formy, ako aj spolupôsobenie kyseliny askorbovej a plodov ruže šípovej.",
       "URL": "http://www.zelenyzivot.sk/Vitamin-C-30-tabliet-so-sipkami-1000mg-s-pred-zenym-ucinkom-Benevit-d21.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_21VitaminC-predlzenym-ucinkom-30tabliet.png",
       "PRICE_VAT": 3.50
+   },
+   "121": {
+      "PRODUCTNAME": "Vitamin C 100 tabliet so šípkami 1000mg s predĺženým účinkom - Benevit",
+      "DESCRIPTION": "Vitamín C 1000mg so šípkami s postupným uvoľňovaním spája v sebe výhody tejto liekovej formy, ako aj spolupôsobenie kyseliny askorbovej a plodov ruže šípovej.",
+      "URL": "http://www.zelenyzivot.sk/Vitamin-C-100-tabliet-so-sipkami-1000mg-s-pred-zenym-ucinkom-Benevit-d22.htm",
+      "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_22VitaminC-so-sipkami-100tabliet.png",
+      "PRICE_VAT": 7.50
    },
    "23356731": {
       "PRODUCTNAME": "Bakteriálne kultúry s prebiotikom ActiFlor 30 kapsúl",
@@ -91,42 +98,42 @@
       "PRICE_VAT": 12.40
    },
    "23359424": {
-      "PRODUCTNAME": "Benevit - Kolostrum 400mg 30kapsúl",
+      "PRODUCTNAME": "Kolostrum 400mg 30 kapsúl - Benevit",
       "DESCRIPTION": "Ako výživový doplnok sa využíva kravské kolostrum. Výživový profil a zloženie kolostra sa podstatne líši od kravského mlieka. Okrem bielkovín, sacharidov, tukov, minerálnych látok a vitamínov obsahuje aj oligosacharidy, rastové faktory, antimikrobiálne pôsobiace látky a ?imunoregulačné? zložky, ktoré v takýchto množstvách a v zložení sú typické pre mledzivo.",
       "URL": "http://www.zelenyzivot.sk/Kolostrum-400mg-30-kapsul-d25.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_25kolostrum-30kapsul.png",
       "PRICE_VAT": 8.20
    },
    "23359447": {
-      "PRODUCTNAME": "Benevit - Kolostrum 400mg 60kapsúl",
+      "PRODUCTNAME": "Kolostrum 400mg 60kapsúl - Benevit",
       "DESCRIPTION": "Prípravok Kolostrum-Zelený život obsahuje 400mg kravského kolostra (bovinného) spracovanej do sušenej formy veľmi šetrným spôsobom, aby sa zachoval čo najvyšší obsah obsahových látok.",
       "URL": "http://www.zelenyzivot.sk/Kolostrum-400mg-60-kapsul-d26.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_26Kolostrum60kapsul.png",
       "PRICE_VAT": 13.50
    },
    "23360347": {
-      "PRODUCTNAME": "Aquamin ? Vápnik 350mg 30 tabliet - Benevit",
+      "PRODUCTNAME": "Aquamin Vápnik 350mg 30 tabliet - Benevit",
       "DESCRIPTION": "Aquamin-Vápnik 350mg obsahuje vápnik zo 100% prírodného rastlinného materiálu, ktorý je  ekologicky čistý a obnoviteľný zdroj významnej prírodnej kombinácie minerálov,  vhodný aj pre vegetariánov a vegánov . Tento prípravok okrem vápnika obsahuje horčík a 74 ďalších stopových prvkov, vrátane zinku, železa a selénu.",
       "URL": "http://www.zelenyzivot.sk/Aquamin-Vapnik-350mg-30-tabliet-Benevit-d27.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_27Aquamin-vapnik-30tabliet.png",
       "PRICE_VAT": 3.80
    },
    "23360371": {
-      "PRODUCTNAME": "Aquamin ? Vápnik 350mg 100 tabliet - Benevit",
+      "PRODUCTNAME": "Aquamin Vápnik 350mg 100 tabliet - Benevit",
       "DESCRIPTION": "Aquamin-Vápnik 350mg obsahuje vápnik zo 100% prírodného rastlinného materiálu, ktorý je  ekologicky čistý a obnoviteľný zdroj významnej prírodnej kombinácie minerálov,  vhodný aj pre vegetariánov a vegánov . Tento prípravok okrem vápnika obsahuje horčík a 74 ďalších stopových prvkov, vrátane zinku, železa a selénu.",
       "URL": "http://www.zelenyzivot.sk/Aquamin-Vapnik-350mg-100-tabliet-Benevit-d28.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_28vapnik-100tabliet.png",
       "PRICE_VAT": 7.70
    },
    "23360388": {
-      "PRODUCTNAME": "Benevit - Koenzým Q10 30mg 30 + 10 kapsúl zadarmo",
+      "PRODUCTNAME": "Koenzým Q10 30mg 30 + 10 kapsúl zadarmo - Benevit",
       "DESCRIPTION": "Koenzým Q10 je výživový doplnok s obsahom 30mg koenzýmu Q10 doplnený o vitamín E (d-alfa-tokoferol) rozpustené v sójovom oleji v mäkkých želatínových kapsliach pre maximálnu biologickú využiteľnosť.",
       "URL": "http://www.zelenyzivot.sk/Koenzym-Q10-30mg-30-10-kapsul-zadarmo-d29.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_29koenzym30tbl.png",
       "PRICE_VAT": 5.80
    },
    "23360398": {
-      "PRODUCTNAME": "Benevit - Koenzým Q10 30mg 60 + 12 kapsúl zadarmo",
+      "PRODUCTNAME": "Koenzým Q10 30mg 60 + 12 kapsúl zadarmo - Benevit",
       "DESCRIPTION": "Koenzým Q10 je výživový doplnok s obsahom 30mg koenzýmu Q10 doplnený o vitamín E (d-alfa-tokoferol) rozpustené v sójovom oleji v mäkkých želatínových kapsliach pre maximálnu biologickú využiteľnosť.",
       "URL": "http://www.zelenyzivot.sk/Koenzym-Q10-30mg-60-12-kapsul-zadarmo-d30.htm",
       "IMGURL": "http://www.zelenyzivot.sk/fotky6482/fotos/_vyr_30KoenzymQ1060kapsul.png",
