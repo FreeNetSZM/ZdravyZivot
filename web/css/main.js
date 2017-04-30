@@ -41,23 +41,4 @@ function ProduktID() {
         document.getElementById(i).innerHTML = name[id]["PRICE_VAT"].toFixed(2) + "&nbsp€&nbsp&nbsp"; 
      }
   });  
-  /*
-  for (i = 0; i < max; i++) {    
-    (function(i) {
-      id = arg[i];
-      $.getJSON('https://gw.api.alibaba.com/openapi/param2/2/portals.open/api.getPromotionProductDetail/38404?fields=salePrice,discount,evaluateScore&localCurrency=EUR&productId=' +id, function(data) {
-      if (data.result == undefined) {document.getElementById(i).innerHTML = "Dočasne nedostupné &nbsp&nbsp";}
-        else {
-            if (data.result.discount == "0%") {document.getElementById(i).innerHTML = data.result.salePrice + "&nbsp&nbsp";}
-              else {document.getElementById(i).innerHTML = "aktuálna zľava: " + data.result.discount + "&nbsp&nbsp&nbsp" + data.result.salePrice + "&nbsp&nbsp";}
-            }
-      document.getElementById("STAR_" + i).style.width = (data.result.evaluateScore * 20) + "%";
-      document.getElementById("SCORE_" + i).innerHTML = data.result.evaluateScore;       
-      });      
-      $.getJSON('https://gw.api.alibaba.com/openapi/param2/2/portals.open/api.getAppPromotionProduct/38404?productId=' +id, function(img) {
-        if (img.result == undefined) {document.getElementById("IMG_" + i).src = "https://freenetszm.github.io/ArduinoPoSlovensky/Produkty/images/aliexpress.jpg";} 
-          else {document.getElementById("IMG_" + i).src = img.result.image220;}  
-      });   
-    })(i);
-  }*/ 
 }
