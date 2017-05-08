@@ -1,4 +1,12 @@
 @font-face {
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Anton Regular'), local('Anton-Regular'), url(https://fonts.gstatic.com/s/anton/v8/o-91-t7-bPc7W26HmS2N4Q.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
     font-family: "FontAwesome";
     src: url("/ZdravyZivot/web/fonts/fontawesome-webfont.woff") format('woff');
 }
@@ -79,7 +87,7 @@
 
 .NADPIS {
     height: 30px;
-    font: normal normal normal normal 16px / 17.6px kg_second_chances_solidRg;
+    font: normal normal normal normal 16px / 17.6px Anton;
     margin: 20px 0px 10px;
 }
 
