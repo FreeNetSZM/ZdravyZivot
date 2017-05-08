@@ -1,3 +1,12 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Anton Regular'), local('Anton-Regular'), url(https://fonts.gstatic.com/s/anton/v8/KgPSGrLwjoSLN4ZBWvXSfQ.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
 @font-face {
   font-family: 'Anton';
   font-style: normal;
@@ -11,10 +20,10 @@
     src: url("/ZdravyZivot/web/fonts/fontawesome-webfont.woff") format('woff');
 }
 
-@font-face {
+/*@font-face {
     font-family: "kg_second_chances_solidRg";
     src: url("/ZdravyZivot/web/fonts/kgsecondchancessolid-webfont.ttf") format('truetype');
-}
+}*/
 
 @font-face {
     font-family: "Roboto Condensed";
